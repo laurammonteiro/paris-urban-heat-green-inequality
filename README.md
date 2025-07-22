@@ -11,7 +11,14 @@ This project combines open geospatial data, socioeconomic indicators, and climat
 - Quantify green space per arrondissement
 - Compare green coverage to median disposable income and poverty rate
 - Map urban cooling zones ("îlots de fraîcheur") across Paris
-- Visualize and interpret spatial inequality in access to green infrastructure
+- Explore lived experience through field visits to selected neighborhoods
+- Support public awareness of climate inequality in urban environments
+
+---
+
+## 🗺️ Why This Matters
+
+Urban heat disproportionately affects low-income communities with limited access to green or shaded areas. Paris, like many cities, is experiencing more frequent heatwaves, making it essential to identify areas at risk and improve urban resilience strategies.
 
 ---
 
@@ -37,10 +44,9 @@ This project combines open geospatial data, socioeconomic indicators, and climat
 
 ## 🧰 Tools & Technologies
 
-- Python: Pandas, GeoPandas
-- Visualization: Matplotlib, Seaborn, Folium
-- Mapping: QGIS (optional), Google Colab or Jupyter
-- Dashboard: Streamlit (optional)
+- **Python**: Pandas, GeoPandas, Matplotlib, Seaborn
+- **Mapping**: Folium, QGIS (optional)
+- **Environment**: Google Colab, GitHub
 
 ---
 
@@ -51,6 +57,6 @@ Brazilian financial analyst transitioning into data science and climate impact r
 Passionate about sustainability, inequality, and AI for public good.
 
 - 📍 Based in Paris (for this project)
-- 🌱 Focused on urban climate solutions
+- 🌱 Focused on urban climate resilience
 - 🌎 LinkedIn: [linkedin.com/in/laurammonteiro](https://linkedin.com/in/laurammonteiro)
 
